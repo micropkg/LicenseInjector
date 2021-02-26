@@ -9,5 +9,5 @@ var _ = func() int {
     <Package Name>
     Some License...`)
     return 0
-}
+}()
 ```
